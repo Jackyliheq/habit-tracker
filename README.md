@@ -58,3 +58,7 @@ flutter test
 XP and coin balancing values are centralized in
 `lib/services/gamification_service.dart`, while Shop prices are centralized in
 `lib/models/shop_item.dart`, so balancing can be tuned without changing the UI.
+
+
+
+Project ini dihentikan pada progress 65% dengan beberapa hal yang belum diimplementasikan yaitu Database/API aplikasi 
